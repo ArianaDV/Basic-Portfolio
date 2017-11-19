@@ -63,6 +63,16 @@ form {float: left;
 	line-height: 35px;
 	color: #777777;}
 
+button {background: #4aaaa5;
+	width: 115px;
+	height: 40px;;
+	font-size: 17px;
+	color: #ffffff;
+	border: none;
+	font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
+	position: relative;
+	top: 8px;}
+
 .images {float: left;
 	background: #ffffff;
 	border: solid;
